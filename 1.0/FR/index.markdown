@@ -107,11 +107,11 @@ Afin de maximiser les effets positifs des écosystèmes ouverts, nous travailler
 
 Cette déclaration de principes s'inspire de nombreuses sources, dont les plus importantes sont :
 
-* Les [Principes MyData] (https://github.com/okffi/mydata) (Open Knowledge Finland)
+* Les [Principes MyData](https://github.com/okffi/mydata) (Open Knowledge Finland)
 
-* La [Charte des données personnelles de MesInfos] (https://docs.google.com/document/d/152JQmJjEoJ2U5ikwyq2e8hujjKukPC4baWhHITsJisM/edit#heading=h.qn9xmj8uw8ja) (Fing)
+* La [Charte des données personnelles de MesInfos](https://docs.google.com/document/d/152JQmJjEoJ2U5ikwyq2e8hujjKukPC4baWhHITsJisM/edit#heading=h.qn9xmj8uw8ja) (Fing)
 
-* Les [Principes du projet VRM] (https://docs.google.com/document/d/152JQmJjEoJ2U5ikwyq2e8hujjKukPC4baWhHITsJisM/edit#heading=h.wwuoeihq76ji) (Projet VRM)
+* Les [Principes du projet VRM](https://docs.google.com/document/d/152JQmJjEoJ2U5ikwyq2e8hujjKukPC4baWhHITsJisM/edit#heading=h.wwuoeihq76ji) (Projet VRM)
 
 * Les [principes de partage des données de l'ODI] (https://docs.google.com/document/d/152JQmJjEoJ2U5ikwyq2e8hujjKukPC4baWhHITsJisM/edit#heading=h.h9z8majrp45k) (Open Data Institute)
 
